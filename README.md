@@ -26,5 +26,5 @@
 <a href="https://twitter.com/akashrine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akashrine" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/julienbrionne" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="julienbrionne" height="30" width="30" /></a>
 <a href="https://instagram.com/julienbrionne" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="julienbrionne" height="30" width="30" /></a>
-<a href="/https://www.julien-brionne.fr/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.julien-brionne.fr/feed.xml" height="30" width="30" /></a>
+<a href="https://www.julien-brionne.fr/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://www.julien-brionne.fr/feed.xml" height="30" width="30" /></a>
 </p>
