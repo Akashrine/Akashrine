@@ -13,6 +13,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Working remotely as a team](https://julien-brionne.fr/posts/working-remotely-as-a-team/)
 - [What is the real MVP?](https://julien-brionne.fr/posts/what-is-the-real-mvp/)
 - [It is not about the solution](https://julien-brionne.fr/posts/it-is-not-about-the-solution/)
 - [A whole new world](https://julien-brionne.fr/posts/a-whole-new-world/)
